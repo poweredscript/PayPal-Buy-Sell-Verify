@@ -1,0 +1,8 @@
+D:\Visual Studio\Projects\PayPal Buy Sell Verify\PayPal Buy Sell Verify\obj\Debug\PayPal Buy Sell Verify.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\PayPal Buy Sell Verify\PayPal Buy Sell Verify\obj\Debug\PayPal_Buy_Sell_Verify.Form1.resources
+D:\Visual Studio\Projects\PayPal Buy Sell Verify\PayPal Buy Sell Verify\obj\Debug\PayPal_Buy_Sell_Verify.Properties.Resources.resources
+D:\Visual Studio\Projects\PayPal Buy Sell Verify\PayPal Buy Sell Verify\obj\Debug\PayPal Buy Sell Verify.csproj.GenerateResource.Cache
+D:\Visual Studio\Projects\PayPal Buy Sell Verify\PayPal Buy Sell Verify\bin\Debug\PP Buy Sell Verify.exe
+D:\Visual Studio\Projects\PayPal Buy Sell Verify\PayPal Buy Sell Verify\bin\Debug\PP Buy Sell Verify.pdb
+D:\Visual Studio\Projects\PayPal Buy Sell Verify\PayPal Buy Sell Verify\obj\Debug\PP Buy Sell Verify.exe
+D:\Visual Studio\Projects\PayPal Buy Sell Verify\PayPal Buy Sell Verify\obj\Debug\PP Buy Sell Verify.pdb
